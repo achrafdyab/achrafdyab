@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @achrafdyab
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning softwear engineering
--  <ul>📫 How to reach me :
+-  <ul>
+    📫 How to reach me :
     <li><strong><a href='https://www.linkedin.com/in/achrafdyab'>LinkedIn</a></strong></li>
     <li><strong><a href='https://www.instagram.com/dyab.achraf'>Instagram</a></strong></li>
   </ul>
